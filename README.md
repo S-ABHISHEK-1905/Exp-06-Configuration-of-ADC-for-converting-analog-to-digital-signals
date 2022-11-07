@@ -224,3 +224,7 @@ Output screen shots :
 
 ## LAYOUT:
 ![image](https://user-images.githubusercontent.com/66360846/200358650-414190ee-57bf-4047-a450-666b25f421f3.png)
+
+
+# Result :
+Configuring an ADC and the input values are displayed on LCD screen
